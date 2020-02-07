@@ -7,7 +7,7 @@ import com.example.retrofitwetherapp.pojo.Sys;
 import com.example.retrofitwetherapp.pojo.Weather;
 import com.example.retrofitwetherapp.pojo.Wind;
 
-public class PojoResponse {
+public class WeatherPojo {
 
     private String visibility;
 
